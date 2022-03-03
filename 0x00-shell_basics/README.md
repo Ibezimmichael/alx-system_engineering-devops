@@ -1,1 +1,1 @@
-intro to shell basics
+introdution to shell basics
